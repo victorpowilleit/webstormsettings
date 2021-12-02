@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="components/Header/index.jsx" type="AUTO_DETECTED" />
+      <mapping pattern="functions/db_connect.js" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
